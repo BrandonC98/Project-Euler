@@ -1,0 +1,16 @@
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.exe
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.deps.json
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.runtimeconfig.json
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.dll
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ref\ProjectEuler.dll
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\bin\Debug\net5.0\ProjectEuler.pdb
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.dll
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ref\ProjectEuler.dll
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.pdb
+C:\Users\Brandon\Documents\Sparta Global\Training\Project Euler\ProjectEuler\ProjectEuler\obj\Debug\net5.0\ProjectEuler.genruntimeconfig.cache
