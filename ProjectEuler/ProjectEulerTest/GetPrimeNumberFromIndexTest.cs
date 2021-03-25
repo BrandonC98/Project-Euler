@@ -23,7 +23,7 @@ namespace ProjectEulerTest
         [TestCase(3, 5)]
         [TestCase(6, 13)]
         [TestCase(10001, 104743)]
-        public void Test1(int index, int expected)
+        public void WillReturnTheNumberAtPrimeIndex(int index, int expected)
         {
 
             Assert.AreEqual(expected, Program.GetPrimeNumberFromIndex(index));

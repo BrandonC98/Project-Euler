@@ -23,6 +23,7 @@ namespace ProjectEuler
 
         public static int SmallestEvenlyDivisbleNumberInRange(int lowerBoundry, int higherBoundry)
         {
+
             var range = GetRange(lowerBoundry, higherBoundry);
             int counter = lowerBoundry;
 
@@ -90,7 +91,7 @@ namespace ProjectEuler
 
             }
 
-            throw new Exception();           
+            return 0;        
         }
 
 
@@ -157,7 +158,6 @@ namespace ProjectEuler
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
 
         }
 

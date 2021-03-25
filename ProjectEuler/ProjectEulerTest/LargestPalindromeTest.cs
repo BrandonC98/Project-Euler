@@ -25,10 +25,9 @@ namespace ProjectEulerTest
         [TestCase(2, 9009)]
         [TestCase(1, 9)]
         [TestCase(3, 580085)]
-
-        public void Test1(int digitcount, int expected)
+        public void WillReturnTheLargestParlindromeNumberWithTheAmountOfDigits(int digitcount, int expected)
         {
-            //424151424
+
             Assert.AreEqual(expected, Program.LargestPalindrome(digitcount));
                             
         }

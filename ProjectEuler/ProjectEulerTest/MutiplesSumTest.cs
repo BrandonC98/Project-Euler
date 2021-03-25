@@ -17,10 +17,10 @@ namespace ProjectEulerTest
         [TestCase(10, 5, 4, 0)]
         [TestCase(15, 5, 5, 0)]
         [TestCase(3, 5, 1000, 233168)]
-        public void Test1(int num1, int num2, int max, int expected)
+        public void WillReturnTheSumOfAllNumbers(int num1, int num2, int max, int expected)
         {
            
-            Assert.AreEqual(expected, Program.MutiplesSum(num1, num2,max));
+            Assert.AreEqual(expected, Program.MutiplesSum(num1, num2, max));
         }
     }
 }

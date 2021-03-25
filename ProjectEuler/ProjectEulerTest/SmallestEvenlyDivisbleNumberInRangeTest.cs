@@ -24,7 +24,7 @@ namespace ProjectEulerTest
 
         [TestCase(1, 10, 2520)]
         [TestCase(1, 20, 232792560)]
-        public void Test1(int lowerBoundry, int higherBoundry, int expected)
+        public void ReturnsSmallestEvenlyDivisableNumber(int lowerBoundry, int higherBoundry, int expected)
         {
 
             Assert.AreEqual(expected, Program.SmallestEvenlyDivisbleNumberInRange(lowerBoundry, higherBoundry));
